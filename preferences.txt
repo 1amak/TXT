@@ -1,0 +1,5 @@
+	Favorite film: Pulp Fiction,
+       	Favorite TV series: The Office,
+       	Favorite food: Borsch,
+       	Favorite time of year: Spring,
+       	The country i want to visit: USA
