@@ -1,0 +1,5 @@
+	Name: Dmytro,
+        Surname: Myroshnychenko,
+        Age: 26,
+        Pets: 2,
+        Desired salary: 500
